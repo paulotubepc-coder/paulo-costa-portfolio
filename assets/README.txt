@@ -1,0 +1,1 @@
+Pasta de imagens do portfólio. A fotografia principal deve ser enviada aqui com o nome paulo-costa.jpg.
